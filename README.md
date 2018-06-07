@@ -12,11 +12,9 @@
 
 * K-means【**K-Means算法**】
 
-* Random Forest    【**随机森林**】(**暂时无法正常运行**)
+* Random Forest 【**随机森林**】(**暂时无法正常运行**)
 
   ​    
-
-    
 
 ### 2. Neural Networks
 
@@ -32,15 +30,13 @@
 
 * Bidrectional RNN【**双向循环神经网络**】
 
-  
+  ​    
 
   **<u>[Note:]</u>**
 
   tools文件夹中为网络各模块的实现，如BN层，Conv层，Pool层，Leak Layer等，以及residual Networks的架构实现。
 
 ​    
-
-
 
 ### 3. Data Management
 
@@ -49,8 +45,6 @@
 * Data Argument【**数据增强**】
 
 * TF-Dataset_API【**使用Tf-dataset-API加载数据**】
-
-  ​    
 
   ​    
 
@@ -64,8 +58,6 @@
 - Gan
 
 - Variational Autoencoder
-
-  ​    
 
   ​    
 
