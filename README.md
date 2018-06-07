@@ -28,13 +28,11 @@
 
 * Dynamic RNN【**动态循环神经网络LSTM**】
 
-* Bidrectional RNN【**双向循环神经网络**】
+* ​Bidrectional RNN【**双向循环神经网络**】 
 
-  ​    
+  **[Note:]**
 
-  **<u>[Note:]</u>**
-
-  tools文件夹中为网络各模块的实现，如BN层，Conv层，Pool层，Leak Layer等，以及residual Networks的架构实现。
+  > tools文件夹中为网络各模块的实现，如BN层，Conv层，Pool层，Leak Layer等，以及residual Networks的架构实现。
 
 ​    
 
