@@ -7,12 +7,7 @@ References:
     processing systems, 2672-2680.
     - Understanding the difficulty of training deep feedforward neural networks.
     X Glorot, Y Bengio. Aistats 9, 249-256
-Links:
-    - [GAN Paper](https://arxiv.org/pdf/1406.2661.pdf).
-    - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
-    - [Xavier Glorot Init](www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.../AISTATS2010_Glorot.pdf).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 
 from __future__ import division, print_function, absolute_import

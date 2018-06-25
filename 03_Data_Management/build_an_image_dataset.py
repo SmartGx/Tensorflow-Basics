@@ -26,8 +26,7 @@ We will show 2 different ways to build that dataset:
     ```
 Below, there are some parameters that you need to change (Marked 'CHANGE HERE'), 
 such as the dataset path.
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 from __future__ import print_function
 

@@ -1,7 +1,4 @@
-"""In progress.
 
-Parag K. Mital, Jan 2016.
-"""
 # %%
 import tensorflow as tf
 from libs.connections import conv2d, linear

@@ -5,10 +5,7 @@ References:
     Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based
     learning applied to document recognition." Proceedings of the IEEE,
     86(11):2278-2324, November 1998.
-Links:
-    [MNIST Dataset] http://yann.lecun.com/exdb/mnist/
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 from __future__ import division, print_function, absolute_import
 

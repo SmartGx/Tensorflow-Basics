@@ -4,11 +4,7 @@ digit images from a noise distribution.
 References:
     - Unsupervised representation learning with deep convolutional generative
     adversarial networks. A Radford, L Metz, S Chintala. arXiv:1511.06434.
-Links:
-    - [DCGAN Paper](https://arxiv.org/abs/1511.06434).
-    - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 
 from __future__ import division, print_function, absolute_import

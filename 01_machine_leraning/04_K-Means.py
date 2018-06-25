@@ -1,10 +1,8 @@
 """ K-Means.
 Implement K-Means algorithm with TensorFlow, and apply it to classify
 handwritten digit images. This example is using the MNIST database of
-handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
-Note: This example requires TensorFlow v1.1.0 or over.
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+handwritten digits as training samples 
+
 """
 
 from __future__ import print_function

@@ -2,10 +2,7 @@
 A 2-Hidden Layers Fully Connected Neural Network (a.k.a Multilayer Perceptron)
 implementation with TensorFlow. This example is using the MNIST database
 of handwritten digits (http://yann.lecun.com/exdb/mnist/).
-Links:
-    [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 
 from __future__ import print_function

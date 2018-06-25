@@ -1,9 +1,7 @@
 """ Random Forest.
 Implement Random Forest algorithm with TensorFlow, and apply it to classify 
 handwritten digit images. This example is using the MNIST database of 
-handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+handwritten digits as training samples 
 """
 # ------------------
 # 此版本已无法正常运行

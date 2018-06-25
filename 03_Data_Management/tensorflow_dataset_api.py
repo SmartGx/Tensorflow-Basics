@@ -2,8 +2,7 @@
 In this example, we will show how to load numpy array data into the new 
 TensorFlow 'Dataset' API. The Dataset API implements an optimized data pipeline
 with queues, that make data processing and training faster (especially on GPU).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
 """
 from __future__ import print_function
 
